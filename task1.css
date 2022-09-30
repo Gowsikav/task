@@ -3,7 +3,6 @@
 .container3 {
   display: flex;
   width: auto;
-  border: 5px;
   align-content: baseline;
 }
 .container {
@@ -17,9 +16,6 @@
 .box1,
 .box2,
 .box3,
-.box4,
-.box5,
-.box6,
 .box7,
 .box8 {
   border-radius: 2px;
